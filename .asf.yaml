@@ -1,0 +1,8 @@
+
+github:
+  description: "Apache Sling Maven JCROCM Plugin (deprecated)"
+  homepage: "https://sling.apache.org/"
+  labels:
+    - java
+    - sling
+    - deprecated
